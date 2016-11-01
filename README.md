@@ -1,5 +1,8 @@
 # comp150-agile
-Essay on the Agile Philosophy
+
+# Research Question
+"Can the way that user stories are prioritised I.E. "MoSCoW method" and thus distributed have an impact on the length of the development cycle of a project in the video games industry?"
+
 
 
 
@@ -34,7 +37,7 @@ Source 4 - http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6781336/
 	Rashmi Popli, Naresh Chauhan, Hemant Sharma. **"Prioritising user stories in agile environment"** Issues and Challenges in Intelligent Computing Techniques (ICICT), 2014 International Conference on, 7-8 Feb 2014
 
 Source 5 - http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7100629/
-	Vinod Kumar Chauhan. **How to reduce user story reopen count in Scrum development?** presented at Computing for Sustainable Global Development (INDIACom), 2015 2nd International Conference on, 11-13th March 2014
+	Vinod Kumar Chauhan. **"How to reduce user story reopen count in Scrum development?"** presented at Computing for Sustainable Global Development (INDIACom), 2015 2nd International Conference on, 11-13th March 2014
 	
 Source 6 - http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7320415/
-	Garm Lucassen, Fabiano Dalpiaz, Jan Martijn E.M. van der Werf, Sjaak Brinkkemper. **Forging high-quality User Stories: Towards a discipline for Agile Requirements** presented at Requirements Engineering Conference (RE), 2015 IEEE 23rd International, 24-28 Aug. 2015
+	Garm Lucassen, Fabiano Dalpiaz, Jan Martijn E.M. van der Werf, Sjaak Brinkkemper. **"Forging high-quality User Stories: Towards a discipline for Agile Requirements"** presented at Requirements Engineering Conference (RE), 2015 IEEE 23rd International, 24-28 Aug. 2015
